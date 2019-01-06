@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task4_7
 {
-    class Program
+    class CrapsGame
     {
         static void Main(string[] args)
         {
